@@ -8,9 +8,9 @@
 
 Чтобы использовать этот скрипт, запустите его с указанием имени пакета в качестве аргумента командной строки:
 
-'''
-python install_dependencies.py package_name
-'''
+
+```python install_dependencies.py package_name```
+
 
 где `package_name` - это имя пакета, для которого необходимо установить зависимости.
 
